@@ -1,0 +1,10 @@
+
+#header {
+    padding:2rem;
+    max-width:1250px;
+    margin:0 auto;
+}
+
+#header .title {
+    font-size:3rem;
+}
